@@ -28,6 +28,10 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Developers for hire](https://www.developersforhire.com)
 - [X Team](https://x-team.com)
 - [Authentic Jobs](https://authenticjobs.com)
+- [Dice](https://www.dice.com)
+- [Career Build](https://www.careerbuilder.com)
+- [Linkup](https://www.linkup.com)
+- [Scalable Path](https://www.scalablepath.com/)
 
 ## Freelance Job Sites
 - [Freelancer](http://freelancer.com/jobs)
