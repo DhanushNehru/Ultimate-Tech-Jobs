@@ -32,6 +32,17 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Career Build](https://www.careerbuilder.com)
 - [Linkup](https://www.linkup.com)
 - [Scalable Path](https://www.scalablepath.com/)
+- [Freshersworld](https://www.Freshersworld.com/)
+- [JobsforHer](https://www.JobsforHer.com/)
+- [CutShort](https://www.CutShort.com/)
+- [Jobsora](https://www.jobsora.com/)
+- [Hirist](https://www.Hirist.com/)
+- [Snaphunt](https://www.Snaphunt.com/)
+
+
+
+
+
 
 ## Freelance Job Sites
 - [Freelancer](http://freelancer.com/jobs)
