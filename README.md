@@ -38,8 +38,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Jobsora](https://www.jobsora.com/)
 - [Hirist](https://www.Hirist.com/)
 - [Snaphunt](https://www.Snaphunt.com/)
-
-
+- [Cuvette](https://cuvette.tech/)
+- [Unstop](https://unstop.com/)
 
 
 
