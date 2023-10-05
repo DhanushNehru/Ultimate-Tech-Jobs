@@ -42,6 +42,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Snaphunt](https://www.Snaphunt.com/)
 - [Cuvette](https://cuvette.tech/)
 - [Unstop](https://unstop.com/)
+- [Hired](https://hired.com/)
+
 
 
 ## Remote Job Sites
