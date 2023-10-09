@@ -43,6 +43,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Cuvette](https://cuvette.tech/)
 - [Unstop](https://unstop.com/)
 - [Hired](https://hired.com/)
+- [Simply Hired](https://www.simplyhired.com/)
 
 
 
