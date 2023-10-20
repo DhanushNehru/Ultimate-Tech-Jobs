@@ -108,12 +108,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 
 ## Telegram Job Channels
 - [Arsh Goyal : Youtube](https://telegram.me/goyalarsh)
-- [ENGINEER JOBS INDIA](https://telegram.me/engineerjobsindia)
-- [Jobs And Internships Updates1](https://telegram.me/jobs_and_internships_updates1)
-- [Jobs and Internships Updates](https://telegram.me/jobsandinternshipsupdates)
-- [Jobs Internships Wale](https://telegram.me/jobsinternshipswale)
-- [OceanOfJobs](https://telegram.me/OceanOfJobs)
-- [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
 
 
 
