@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Jobs and Internships Updates](https://telegram.me/jobsandinternshipsupdates)
 - [Jobs Internships Wale](https://telegram.me/jobsinternshipswale)
 - [OceanOfJobs](https://telegram.me/OceanOfJobs)
+- [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
 
 Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)
 
