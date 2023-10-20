@@ -8,7 +8,7 @@ A list of job related sites for people in tech
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate-Tech-Jobs](#Ultimate-Tech-Jobs)
+### [**Ultimate-Tech-Jobs**](#Ultimate-Tech-Jobs)
 - [Famous Job Sites](#Famous-Job-Sites)
 - [Remote Job Sites](#Remote-Job-Sites)
 - [Freelance Job Sites](#Freelance-Job-Sites)
@@ -17,6 +17,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Javascript Job Sites](#Javascript-Job-Sites)
 - [Mobile App Development Job Sites](#Mobile-App-Development-Job-Sites)
 - [Laravel Job Sites](#Laravel-Job-Sites)
+- [Telegram Job Channels](#telegram-job-channels)
+
 
 ## Famous Job Sites
 - [Linkedin](http://linkedIn.com)
@@ -46,7 +48,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Simply Hired](https://www.simplyhired.com/)
 
 
-
 ## Remote Job Sites
 - [RemoteOK](https://remoteok.com)
 - [WellFound](https://wellfound.com)
@@ -72,9 +73,11 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 
+
 ## Python Specifc Job Sites
 - [Python Jobs](http://python.org/jobs)
 - [Python Job](https://pythonjob.xyz)
+
 
 ## Html and Css Job Sites
 - [Toptotal](https://www.toptal.com)
@@ -82,6 +85,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Powertofly](https://powertofly.com)
 - [Gingster](https://gigster.com)
 - [Css Tricks](https://css-tricks.com/jobs/)
+
 
 ## Javascript Job Site
 - [JsJobbs](https://jsjobbs.com)
@@ -91,14 +95,28 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Vue Jobs](https://vuejobs.com)
 - [React Jobs](https://reactjobsboard.com)
 
+
 ## Mobile App Development Job Sites
 - [iOS Dev Jobs](http://iosdevjobs.com)
 - [Android Jobs](https://www.androidjobs.io/)
 - [CoreInt - For iOS and Mac Cocoa Developers](http://jobs.coreint.org/)
 
+
 ## Laravel Job Sites
 - [Laravel Jobs](https://larajobs.com)
 
-Hey, I am Dhanush N,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)
 
-If you liked this repository support it by starring ⭐
+## Telegram Job Channels
+- [Arsh Goyal : Youtube](https://telegram.me/goyalarsh)
+- [ENGINEER JOBS INDIA](https://telegram.me/engineerjobsindia)
+- [Jobs And Internships Updates1](https://telegram.me/jobs_and_internships_updates1)
+- [Jobs and Internships Updates](https://telegram.me/jobsandinternshipsupdates)
+- [Jobs Internships Wale](https://telegram.me/jobsinternshipswale)
+- [OceanOfJobs](https://telegram.me/OceanOfJobs)
+- [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
+
+
+
+*Hey, I am Dhanush N,the maintainer of this Opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)*
+
+#### **If you like this repository support it by giving it a star. It would mean a lot. Thankyou ⭐**
