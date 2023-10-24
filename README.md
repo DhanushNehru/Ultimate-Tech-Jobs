@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 ## Python Specifc Job Sites
 - [Python Jobs](http://python.org/jobs)
 - [Python Job](https://pythonjob.xyz)
+- [Remote Python](https://www.remotepython.com/)
 
 ## Html and Css Job Sites
 - [Toptotal](https://www.toptal.com)
