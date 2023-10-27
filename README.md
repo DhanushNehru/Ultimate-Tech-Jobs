@@ -60,7 +60,10 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Crypto Jobs List](https://cryptojoblist.com)
 - [Web3 Jobs](https://web3.career)
 - [Uplers](https://www.uplers.com/)
-
+- [PowerToFly](https://powertofly.com/jobs/)
+- [Authentic Jobs](https://authenticjobs.com)
+- [Pangian](https://pangian.com)
+- [NoDesk](https://nodesk.co)
 
 ## Freelance Job Sites
 - [Freelancer](http://freelancer.com/jobs)
