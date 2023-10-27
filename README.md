@@ -62,6 +62,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Uplers](https://www.uplers.com/)
 - [PowerToFly](https://powertofly.com/jobs/)
 - [Authentic Jobs](https://authenticjobs.com)
+- [Pangian](https://pangian.com)
 
 ## Freelance Job Sites
 - [Freelancer](http://freelancer.com/jobs)
