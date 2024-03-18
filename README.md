@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Authentic Jobs](https://authenticjobs.com)
 - [Pangian](https://pangian.com)
 - [NoDesk](https://nodesk.co)
+- [EngMgrJobs](https://engmgrjobs.com)
 
 ## Freelance Job Sites
 - [Freelancer](http://freelancer.com/jobs)
