@@ -117,6 +117,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
 
 
-*Hey, I am **Dhanush N**,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru)*
+*Hey, I am **Dhanush N**,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)*
 
 **If you like this repository support it by giving it a star ⭐ It would mean a lot. Thankyou**
