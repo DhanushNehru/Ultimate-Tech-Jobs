@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Monster](http://monster.com/)
 - [Flex Jobs](http://flexjobs.com/jobs)
 - [Ladders](https://www.theladders.com)
-- [Toptotal](https://www.toptal.com)
+- [Toptal](https://www.toptal.com)
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 
