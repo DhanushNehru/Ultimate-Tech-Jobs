@@ -21,8 +21,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 
 ## Famous Job Sites
 - [Linkedin](http://linkedIn.com)
-- [StackOverflow](http://stackoverflow.com/jobs)
-- [Github](http://jobs.github.com)
+- [StackOverflow](https://stackoverflow.co/company/careers/)
 - [Glassdoor](https://www.glassdoor.co.in)
 - [Upwork](https://upwork.com)
 - [Naukri](https://www.naukri.com)
@@ -37,10 +36,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Scalable Path](https://www.scalablepath.com/)
 - [Freshersworld](https://www.Freshersworld.com/)
 - [JobsforHer](https://www.JobsforHer.com/)
-- [CutShort](https://www.CutShort.com/)
+- [CutShort](https://cutshort.io/)
 - [Jobsora](https://www.jobsora.com/)
 - [Hirist](https://www.Hirist.com/)
-- [Snaphunt](https://www.Snaphunt.com/)
 - [Cuvette](https://cuvette.tech/)
 - [Unstop](https://unstop.com/)
 - [Hired](https://hired.com/)
