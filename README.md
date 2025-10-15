@@ -88,11 +88,11 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Remote Python](https://www.remotepython.com/)
 
 ## Html and Css Job Sites
-- [Toptotal](https://www.toptal.com)
-- [Remoteok](https://remoteok.io/hire/css)
-- [Powertofly](https://powertofly.com)
-- [Gingster](https://gigster.com)
 - [Css Tricks](https://css-tricks.com/jobs/)
+- [Gingster](https://gigster.com)
+- [Powertofly](https://powertofly.com)
+- [Remoteok](https://remoteok.io/hire/css)
+- [Toptotal](https://www.toptal.com)
 
 ## Javascript Job Site
 - [JsJobbs](https://jsjobbs.com)
