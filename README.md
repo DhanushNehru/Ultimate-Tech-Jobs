@@ -82,7 +82,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Toptotal](https://www.toptal.com)
 - [Upwork](https://www.upwork.com/freelance-jobs/)
 
-## Python Specifc Job Sites
+## Python Specific Job Sites
 - [Python Jobs](http://python.org/jobs)
 - [Python Job](https://pythonjob.xyz)
 - [Remote Python](https://www.remotepython.com/)
