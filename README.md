@@ -72,17 +72,17 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Remote.co](https://remote.co/)
 
 ## Freelance Job Sites
-- [Freelancer](http://freelancer.com/jobs)
-- [Upwork](https://www.upwork.com/freelance-jobs/)
-- [Indeed](http://indeed.com/)
-- [Monster](http://monster.com/)
 - [Flex Jobs](http://flexjobs.com/jobs)
-- [Ladders](https://www.theladders.com)
-- [Toptotal](https://www.toptal.com)
-- [Guru](https://guru.com)
+- [Freelancer](http://freelancer.com/jobs)
 - [Freelancermap](https://freelancermap.com)
+- [Guru](https://guru.com)
+- [Indeed](http://indeed.com/)
+- [Ladders](https://www.theladders.com)
+- [Monster](http://monster.com/)
+- [Toptotal](https://www.toptal.com)
+- [Upwork](https://www.upwork.com/freelance-jobs/)
 
-## Python Specifc Job Sites
+## Python Specific Job Sites
 - [Python Jobs](http://python.org/jobs)
 - [Python Job](https://pythonjob.xyz)
 - [Remote Python](https://www.remotepython.com/)
