@@ -89,7 +89,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 
 ## Html and Css Job Sites
 - [Css Tricks](https://css-tricks.com/jobs/)
-- [Gingster](https://gigster.com)
+- [Gigster](https://gigster.com)
 - [Powertofly](https://powertofly.com)
 - [Remoteok](https://remoteok.io/hire/css)
 - [Toptotal](https://www.toptal.com)
