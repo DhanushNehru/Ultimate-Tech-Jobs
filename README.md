@@ -82,7 +82,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 
-## Python Specifc Job Sites
+## Python Specific Job Sites
 - [Python Job](https://pythonjob.xyz)
 - [Python Jobs](http://python.org/jobs)
 - [Remote Python](https://www.remotepython.com/)
