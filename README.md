@@ -27,7 +27,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Developers for hire](https://www.developersforhire.com)
 - [Dice](https://www.dice.com)
 - [EU Startups](https://www.eu-startups.com/startup-jobs/)
-- [Freshersworld](https://www.Freshersworld.com/)
+- [Freshersworld](https://www.freshersworld.com/)
 - [Github](http://jobs.github.com)
 - [Glassdoor](https://www.glassdoor.co.in)
 - [Hired](https://hired.com/)
