@@ -22,7 +22,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 ## Famous Job Sites
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Build](https://www.careerbuilder.com)
-- [CutShort](https://www.CutShort.com/)
+- [CutShort](https://www.cutshort.com/)
 - [Cuvette](https://cuvette.tech/)
 - [Developers for hire](https://www.developersforhire.com)
 - [Dice](https://www.dice.com)
