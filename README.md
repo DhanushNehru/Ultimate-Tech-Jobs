@@ -31,7 +31,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Github](http://jobs.github.com)
 - [Glassdoor](https://www.glassdoor.co.in)
 - [Hired](https://hired.com/)
-- [Hirist](https://www.Hirist.com/)
+- [Hirist](https://www.hirist.com/)
 - [JobsforHer](https://www.JobsforHer.com/)
 - [Jobsora](https://www.jobsora.com/)
 - [Linkedin](http://linkedIn.com)
