@@ -42,7 +42,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Scouted](https://scouted.io)
 - [Shine](https://www.shine.com)
 - [Simply Hired](https://www.simplyhired.com/)
-- [Snaphunt](https://www.Snaphunt.com/)
+- [Snaphunt](https://www.snaphunt.com/)
 - [StackOverflow](http://stackoverflow.com/jobs)
 - [Unstop](https://unstop.com/)
 - [Upwork](https://upwork.com)
