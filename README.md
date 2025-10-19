@@ -14,7 +14,7 @@ Whether you're applying for your first developer job, switching careers, or hunt
 - Browse by category (e.g., Remote, Freelance, Python) to quickly find sites relevant to your skillset or job type.
 - Start with the "Famous Job Sites" or "Remote Job Sites" sections if you're unsure where to begin.
 - Each link points to an external job board; read roles carefully for location, visa, and seniority requirements.
-- Use your browser's find (Cmd+F) to search for specific technologies, locations, or platforms.
+- Use your browser's find (Ctrl+F or Cmd+F) to search for specific technologies, locations, or platforms.
 
 ## Contributing / Submit a resource
 
