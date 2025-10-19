@@ -2,13 +2,64 @@
 
 A list of job related sites for people in tech
 
-![Ultimate-Tech-Jobs](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/cover.png)
+![Banner image for Ultimate-Tech-Jobs repository](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/cover.png)
+## Introduction
 
-## Contributing
-Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
+Ultimate-Tech-Jobs is a curated list of job boards, marketplaces, and channels focused on technology roles. It's designed to help beginners and experienced tech professionals find opportunities across full-time, remote, freelance, and specialty platforms.
+
+Whether you're applying for your first developer job, switching careers, or hunting remote/freelance work, this list groups reliable resources so you can browse efficiently.
+
+## How to use this list
+
+- Browse by category (e.g., Remote, Freelance, Python) to quickly find sites relevant to your skillset or job type.
+- Start with the "Famous Job Sites" or "Remote Job Sites" sections if you're unsure where to begin.
+- Each link points to an external job board; read roles carefully for location, visa, and seniority requirements.
+- Use your browser's find (Ctrl+F or Cmd+F) to search for specific technologies, locations, or platforms.
+
+## Contributing / Submit a resource
+
+We welcome contributions. Before opening a PR, please:
+
+1. Check for duplicates using the repo search.
+2. Ensure the resource is relevant to tech jobs (full-time, part-time, freelance, internships, or channels announcing tech roles).
+3. Prefer stable sources (official job boards, well-known aggregators, community-maintained lists).
+
+Suggested PR format (in the list where it belongs):
+
+```
+- [Site Name](https://example.com) — short one-line note: what it is / who it's for
+```
+
+Examples of acceptable additions:
+- A niche job board for a language or framework (e.g., "Rust Jobs")
+- A reputable Telegram/Discord channel that regularly posts tech openings
+
+Not a good fit:
+- Single one-off job postings (these are transient)
+- Low-quality link farms or spammy marketplaces
+
+Please see `CONTRIBUTING.md` and the `CODE-OF-CONDUCT.md` before contributing: [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md).
+
+## Acknowledgements & Maintainers
+
+Maintainer: Dhanush N (original repository owner)
+
+If you'd like to help maintain or curate this list, open an issue or a PR and mention the area you'd like to own (e.g., "Remote jobs curator", "Telegram channels").
+
+Contributors: Thanks to everyone who has added resources and improved this list.
+
+## Status / Last updated
+
+- Last updated: 2025-10-13
+- Status: maintained — contributions welcome
 
 # Table of Contents
 [**Ultimate-Tech-Jobs**](#Ultimate-Tech-Jobs)
+- [Introduction](#introduction)
+- [How to use this list](#how-to-use-this-list)
+- [Contributing / Submit a resource](#contributing--submit-a-resource)
+- [Acknowledgements & Maintainers](#acknowledgements--maintainers)
+- [Status / Last updated](#status--last-updated)
 - [Famous Job Sites](#Famous-Job-Sites)
 - [Remote Job Sites](#Remote-Job-Sites)
 - [Freelance Job Sites](#Freelance-Job-Sites)
