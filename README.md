@@ -2,7 +2,7 @@
 
 A list of job related sites for people in tech
 
-![Ultimate-Tech-Jobs](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/cover.png)
+![Banner image for Ultimate-Tech-Jobs repository](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/cover.png)
 ## Introduction
 
 Ultimate-Tech-Jobs is a curated list of job boards, marketplaces, and channels focused on technology roles. It's designed to help beginners and experienced tech professionals find opportunities across full-time, remote, freelance, and specialty platforms.
