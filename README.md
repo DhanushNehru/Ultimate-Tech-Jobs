@@ -50,7 +50,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 
 ## Status / Last updated
 
-- Last updated: 2025-10-13 (branch: improve-readme)
+- Last updated: 2025-10-13
 - Status: maintained — contributions welcome
 
 # Table of Contents
