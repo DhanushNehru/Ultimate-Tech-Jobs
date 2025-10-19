@@ -47,7 +47,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob
 - [Simply Hired](https://www.simplyhired.com/)
 - [OkJob](https://www.okjob.io/)
 - [EU Startups](https://www.eu-startups.com/startup-jobs/)
-
+- [Foundit](https://www.foundit.in/)
 
 
 ## Remote Job Sites
