@@ -38,7 +38,7 @@ Not a good fit:
 - Single one-off job postings (these are transient)
 - Low-quality link farms or spammy marketplaces
 
-Please see `CONTRIBUTING.md` and the `CODE-OF-CONDUCT.md` before contributing: [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md).
+Please see `CONTRIBUTING.md` and the `CODE-OF-CONDUCT.md` before contributing: [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md).
 
 ## Acknowledgements & Maintainers
 
@@ -47,11 +47,6 @@ Maintainer: Dhanush N (original repository owner)
 If you'd like to help maintain or curate this list, open an issue or a PR and mention the area you'd like to own (e.g., "Remote jobs curator", "Telegram channels").
 
 Contributors: Thanks to everyone who has added resources and improved this list.
-
-## Status / Last updated
-
-- Last updated: 2025-10-13
-- Status: maintained — contributions welcome
 
 # Table of Contents
 [**Ultimate-Tech-Jobs**](#Ultimate-Tech-Jobs)
