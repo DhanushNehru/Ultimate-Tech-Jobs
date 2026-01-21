@@ -123,7 +123,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Monster](http://monster.com/)
 - [Flex Jobs](http://flexjobs.com/jobs)
 - [Ladders](https://www.theladders.com)
-- [Toptotal](https://www.toptal.com)
+- [Toptal](https://www.toptal.com)
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 
