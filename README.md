@@ -140,12 +140,12 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Toptotal](https://www.toptal.com)
 
 ## Javascript Job Site
-- [JsJobbs](https://jsjobbs.com)
-- [Javascript remotely](http://jsremotely.com)
 - [Developers for Hire - Javascript](https://www.developersforhire.com/javascript/)
 - [JavaScript_Job](https://javascriptjob.xyz)
-- [Vue Jobs](https://vuejobs.com)
+- [Javascript remotely](http://jsremotely.com)
+- [JsJobbs](https://jsjobbs.com)
 - [React Jobs](https://reactjobsboard.com)
+- [Vue Jobs](https://vuejobs.com)
 
 ## Mobile App Development Job Sites
 - [iOS Dev Jobs](http://iosdevjobs.com)
