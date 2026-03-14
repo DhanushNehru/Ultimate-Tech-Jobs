@@ -3,6 +3,7 @@
 A list of job related sites for people in tech
 
 ![Banner image for Ultimate-Tech-Jobs repository](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs/blob/main/cover.png)
+
 ## Introduction
 
 Ultimate-Tech-Jobs is a curated list of job boards, marketplaces, and channels focused on technology roles. It's designed to help beginners and experienced tech professionals find opportunities across full-time, remote, freelance, and specialty platforms.
@@ -31,10 +32,12 @@ Suggested PR format (in the list where it belongs):
 ```
 
 Examples of acceptable additions:
+
 - A niche job board for a language or framework (e.g., "Rust Jobs")
 - A reputable Telegram/Discord channel that regularly posts tech openings
 
 Not a good fit:
+
 - Single one-off job postings (these are transient)
 - Low-quality link farms or spammy marketplaces
 
@@ -49,7 +52,9 @@ If you'd like to help maintain or curate this list, open an issue or a PR and me
 Contributors: Thanks to everyone who has added resources and improved this list.
 
 # Table of Contents
+
 [**Ultimate-Tech-Jobs**](#Ultimate-Tech-Jobs)
+
 - [Introduction](#introduction)
 - [How to use this list](#how-to-use-this-list)
 - [Contributing / Submit a resource](#contributing--submit-a-resource)
@@ -66,6 +71,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Telegram Job Channels](#telegram-job-channels)
 
 ## Famous Job Sites
+
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Build](https://www.careerbuilder.com)
 - [CutShort](https://www.cutshort.com/)
@@ -96,6 +102,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [X Team](https://x-team.com)
 
 ## Remote Job Sites
+
 - [RemoteYeah](https://remoteyeah.com)
 - [RemoteOK](https://remoteok.com)
 - [WellFound](https://wellfound.com)
@@ -115,8 +122,10 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [EngMgrJobs](https://engmgrjobs.com)
 - [Benture](https://benture.io)
 - [Remote.co](https://remote.co/)
+- [Remotive](https://remotive.com)
 
 ## Freelance Job Sites
+
 - [Freelancer](http://freelancer.com/jobs)
 - [Upwork](https://www.upwork.com/freelance-jobs/)
 - [Indeed](http://indeed.com/)
@@ -128,11 +137,13 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Freelancermap](https://freelancermap.com)
 
 ## Python Specific Job Sites
+
 - [Python Job](https://pythonjob.xyz)
 - [Python Jobs](http://python.org/jobs)
 - [Remote Python](https://www.remotepython.com/)
 
 ## Html and Css Job Sites
+
 - [Css Tricks](https://css-tricks.com/jobs/)
 - [Gigster](https://gigster.com)
 - [Powertofly](https://powertofly.com)
@@ -140,6 +151,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Toptotal](https://www.toptal.com)
 
 ## Javascript Job Site
+
 - [JsJobbs](https://jsjobbs.com)
 - [Javascript remotely](http://jsremotely.com)
 - [Developers for Hire - Javascript](https://www.developersforhire.com/javascript/)
@@ -148,15 +160,17 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [React Jobs](https://reactjobsboard.com)
 
 ## Mobile App Development Job Sites
+
 - [iOS Dev Jobs](http://iosdevjobs.com)
 - [Android Jobs](https://www.androidjobs.io/)
 - [CoreInt - For iOS and Mac Cocoa Developers](http://jobs.coreint.org/)
 
 ## Laravel Job Sites
+
 - [Laravel Jobs](https://larajobs.com)
 
-
 ## Telegram Job Channels
+
 - [Arsh Goyal : Youtube](https://telegram.me/goyalarsh)
 - [ENGINEER JOBS INDIA](https://telegram.me/engineerjobsindia)
 - [Jobs And Internships Updates1](https://telegram.me/jobs_and_internships_updates1)
@@ -165,7 +179,6 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [OceanOfJobs](https://telegram.me/OceanOfJobs)
 - [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
 
-
-*Hey, I am **Dhanush N**,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)*
+_Hey, I am **Dhanush N**,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)_
 
 **If you like this repository support it by giving it a star ⭐ It would mean a lot. Thankyou**
