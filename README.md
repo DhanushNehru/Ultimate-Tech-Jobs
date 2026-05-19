@@ -61,6 +61,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Status / Last updated](#status--last-updated)
 - [Famous Job Sites](#Famous-Job-Sites)
 - [Remote Job Sites](#Remote-Job-Sites)
+- [Internship and Early Career Job Sites](#internship-and-early-career-job-sites)
 - [Freelance Job Sites](#Freelance-Job-Sites)
 - [Python Job Sites](#Python-Job-Sites)
 - [Html and Css Job Sites](#Html-and-Css-Job-Sites)
@@ -122,6 +123,10 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Benture](https://benture.io)
 - [Remote.co](https://remote.co/)
 - [Remotive](https://remotive.com)
+
+## Internship and Early Career Job Sites
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) — Canada-focused student and recent-grad tech roles, including internships, co-ops, new-grad, junior, software engineering, and data/ML jobs.
 
 ## Freelance Job Sites
 
