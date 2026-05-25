@@ -82,7 +82,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Freshersworld](https://www.freshersworld.com/)
 - [Github](http://jobs.github.com)
 - [Glassdoor](https://www.glassdoor.co.in)
-- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) — Daily-updated Canadian student and recent-grad tech internships, co-ops, new-grad, and junior roles.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/)
 - [Hired](https://hired.com/)
 - [Hirist](https://www.hirist.com/)
 - [JobsforHer](https://www.jobsforher.com/)
