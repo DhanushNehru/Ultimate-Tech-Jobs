@@ -80,6 +80,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Dice](https://www.dice.com)
 - [Indeed](https://www,indeed.com)
 - [EU Startups](https://www.eu-startups.com/startup-jobs/)
+- [FoundRole](https://www.foundrole.com)
 - [Freshersworld](https://www.freshersworld.com/)
 - [Github](http://jobs.github.com)
 - [Glassdoor](https://www.glassdoor.co.in)
@@ -101,7 +102,6 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Unstop](https://unstop.com/)
 - [Upwork](https://upwork.com)
 - [X Team](https://x-team.com)
-- [FoundRole](https://www.foundrole.com)
 
 ## Remote Job Sites
 
