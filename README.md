@@ -78,7 +78,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Cuvette](https://cuvette.tech/)
 - [Developers for hire](https://www.developersforhire.com)
 - [Dice](https://www.dice.com)
-- [Indeed](https://www,indeed.com)
+- [Indeed](https://www.indeed.com)
 - [EU Startups](https://www.eu-startups.com/startup-jobs/)
 - [FoundRole](https://www.foundrole.com)
 - [Freshersworld](https://www.freshersworld.com/)
