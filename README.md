@@ -164,6 +164,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [JavaScript_Job](https://javascriptjob.xyz)
 - [Vue Jobs](https://vuejobs.com)
 - [React Jobs](https://reactjobsboard.com)
+- [Jobs in JS](https://jobsinjs.com)
 
 ## Mobile App Development Job Sites
 
