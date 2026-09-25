@@ -125,7 +125,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Benture](https://benture.io)
 - [Remote.co](https://remote.co/)
 - [Remotive](https://remotive.com)
-- [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
+- [DoableFromHome](https://doablefromhome.com) — Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
 
 ## Internship and Early Career Job Sites
 
