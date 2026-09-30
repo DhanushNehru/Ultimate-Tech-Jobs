@@ -1,8 +1,7 @@
 # [Ultimate-Tech-Jobs](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
 
-A list of job related sites for people in tech
+A list of job-related sites for people in tech.
 
-![Banner image for Ultimate-Tech-Jobs repository](https://github.com/DhanushNehru/Ultimate-Tech-Jobs/blob/main/cover.png)
 ## Introduction
 
 Ultimate-Tech-Jobs is a curated list of job boards, marketplaces, and channels focused on technology roles. It's designed to help beginners and experienced tech professionals find opportunities across full-time, remote, freelance, and specialty platforms.
@@ -27,7 +26,7 @@ We welcome contributions. Before opening a PR, please:
 Suggested PR format (in the list where it belongs):
 
 ```
-- [Site Name](https://example.com) — short one-line note: what it is / who it's for
+- [Site Name](https://example.com) - short one-line note: what it is / who it's for
 ```
 
 Examples of acceptable additions:
@@ -42,7 +41,7 @@ Not a good fit:
 
 Please see `CONTRIBUTING.md` and the `CODE-OF-CONDUCT.md` before contributing: [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Tech-Jobs/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Tech-Jobs/blob/main/CODE-OF-CONDUCT.md).
 
-## Acknowledgements & Maintainers
+## Acknowledgements & maintainers
 
 Maintainer: Dhanush N (original repository owner)
 
@@ -50,27 +49,27 @@ If you'd like to help maintain or curate this list, open an issue or a PR and me
 
 Contributors: Thanks to everyone who has added resources and improved this list.
 
-# Table of Contents
+## Table of contents
 
 [**Ultimate-Tech-Jobs**](#Ultimate-Tech-Jobs)
 
 - [Introduction](#introduction)
 - [How to use this list](#how-to-use-this-list)
 - [Contributing / Submit a resource](#contributing--submit-a-resource)
-- [Acknowledgements & Maintainers](#acknowledgements--maintainers)
+- [Acknowledgements & maintainers](#acknowledgements--maintainers)
 - [Status / Last updated](#status--last-updated)
-- [Famous Job Sites](#Famous-Job-Sites)
-- [Remote Job Sites](#Remote-Job-Sites)
-- [Internship and Early Career Job Sites](#internship-and-early-career-job-sites)
-- [Freelance Job Sites](#Freelance-Job-Sites)
-- [Python Job Sites](#Python-Job-Sites)
-- [Html and Css Job Sites](#Html-and-Css-Job-Sites)
-- [Javascript Job Sites](#Javascript-Job-Sites)
-- [Mobile App Development Job Sites](#Mobile-App-Development-Job-Sites)
-- [Laravel Job Sites](#Laravel-Job-Sites)
-- [Telegram Job Channels](#telegram-job-channels)
+- [Famous job sites](#Famous-Job-Sites)
+- [Remote job sites](#Remote-Job-Sites)
+- [Internship and early career job sites](#internship-and-early-career-job-sites)
+- [Freelance job sites](#Freelance-Job-Sites)
+- [Python job sites](#python-specific-job-sites)
+- [HTML and CSS job sites](#Html-and-Css-Job-Sites)
+- [JavaScript job sites](#javascript-job-sites)
+- [Mobile app development job sites](#Mobile-App-Development-Job-Sites)
+- [Laravel job sites](#Laravel-Job-Sites)
+- [Telegram job channels](#telegram-job-channels)
 
-## Famous Job Sites
+## Famous job sites
 
 - [Authentic Jobs](https://authenticjobs.com)
 - [Career Build](https://www.careerbuilder.com)
@@ -103,7 +102,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Upwork](https://upwork.com)
 - [X Team](https://x-team.com)
 
-## Remote Job Sites
+## Remote job sites
 
 - [RemoteYeah](https://remoteyeah.com)
 - [RemoteOK](https://remoteok.com)
@@ -125,13 +124,13 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Benture](https://benture.io)
 - [Remote.co](https://remote.co/)
 - [Remotive](https://remotive.com)
-- [DoableFromHome](https://doablefromhome.com) — Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
+- [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
 
-## Internship and Early Career Job Sites
+## Internship and early career job sites
 
-- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) — Canada-focused student and recent-grad tech roles, including internships, co-ops, new-grad, junior, software engineering, and data/ML jobs.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/) - Canada-focused student and recent-grad tech roles, including internships, co-ops, new-grad, junior, software engineering, and data/ML jobs.
 
-## Freelance Job Sites
+## Freelance job sites
 
 - [Freelancer](http://freelancer.com/jobs)
 - [Upwork](https://www.upwork.com/freelance-jobs/)
@@ -143,13 +142,13 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 
-## Python Specific Job Sites
+## Python-specific job sites
 
 - [Python Job](https://pythonjob.xyz)
 - [Python Jobs](http://python.org/jobs)
 - [Remote Python](https://www.remotepython.com/)
 
-## Html and Css Job Sites
+## HTML and CSS job sites
 
 - [Css Tricks](https://css-tricks.com/jobs/)
 - [Gigster](https://gigster.com)
@@ -157,7 +156,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remoteok](https://remoteok.io/hire/css)
 - [Toptotal](https://www.toptal.com)
 
-## Javascript Job Site
+## JavaScript job sites
 
 - [JsJobbs](https://jsjobbs.com)
 - [Javascript remotely](http://jsremotely.com)
@@ -167,17 +166,17 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [React Jobs](https://reactjobsboard.com)
 - [Jobs in JS](https://jobsinjs.com)
 
-## Mobile App Development Job Sites
+## Mobile app development job sites
 
 - [iOS Dev Jobs](http://iosdevjobs.com)
 - [Android Jobs](https://www.androidjobs.io/)
 - [CoreInt - For iOS and Mac Cocoa Developers](http://jobs.coreint.org/)
 
-## Laravel Job Sites
+## Laravel job sites
 
 - [Laravel Jobs](https://larajobs.com)
 
-## Telegram Job Channels
+## Telegram job channels
 
 - [Arsh Goyal : Youtube](https://telegram.me/goyalarsh)
 - [ENGINEER JOBS INDIA](https://telegram.me/engineerjobsindia)
@@ -187,6 +186,6 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [OceanOfJobs](https://telegram.me/OceanOfJobs)
 - [OFF CAMPUS JOBS INDIA](https://telegram.me/offcampusjobsindia_IT)
 
-_Hey, I am **Dhanush N**,the maintainer of this opensource repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA)_
+I am **Dhanush N**, the maintainer of this open-source repository. You can connect with me and support or follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1) / [Github](https://github.com/DhanushNehru) / [Newsletter](https://dhanushn.substack.com/) / [Discord](https://discord.com/invite/Yn9g6KuWyA).
 
-**If you like this repository support it by giving it a star ⭐ It would mean a lot. Thankyou**
+If you like this repository, support it by giving it a star ⭐. It would mean a lot. Thank you.
