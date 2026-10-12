@@ -125,6 +125,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remote.co](https://remote.co/)
 - [Remotive](https://remotive.com)
 - [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
+- [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote robot-training and teleoperation jobs from robotics and AI companies, gathered daily from their own career pages, with posted pay.
 
 ## Internship and early career job sites
 
