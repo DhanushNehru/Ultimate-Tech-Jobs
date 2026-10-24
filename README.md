@@ -125,6 +125,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remote.co](https://remote.co/)
 - [Remotive](https://remotive.com)
 - [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions. Limited free access; paid full access.
+- [Get HN Jobs](https://gethnjobs.com/remote-hacker-news-jobs) - Remote jobs from the monthly Hacker News "Who is hiring?" threads, with stack, role and location filters. Free, no account needed to search.
 
 ## Internship and early career job sites
 
