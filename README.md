@@ -101,6 +101,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Unstop](https://unstop.com/)
 - [Upwork](https://upwork.com)
 - [X Team](https://x-team.com)
+- [Youth4work](https://www.youth4work.com/) - Indian careers platform: free skill tests, assessed profiles and jobs for freshers and experienced candidates
 
 ## Remote job sites
 
