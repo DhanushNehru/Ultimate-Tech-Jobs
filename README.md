@@ -145,6 +145,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Toptal](https://www.toptal.com)
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
+- [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board with 0% platform commission
 
 ## Python-specific job sites
 
