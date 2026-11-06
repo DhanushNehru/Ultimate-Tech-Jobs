@@ -129,6 +129,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [RobotTraining.jobs](https://robottraining.jobs/remote-robot-training-jobs) - Remote robot-training and teleoperation jobs from robotics and AI companies, gathered daily from their own career pages, with posted pay.
 - [Get HN Jobs](https://gethnjobs.com/remote-hacker-news-jobs) - Remote jobs from the monthly Hacker News "Who is hiring?" threads, with stack, role and location filters. Free, no account needed to search.
 - [Aworkado](https://aworkado.co) - Remote-only jobs aggregated daily from company ATS boards (Greenhouse, Lever, Ashby). Free, no account.
+- [Remotejobify](https://remotejobify.app) - Remote tech jobs read daily from companies' own job boards, sorted by the country you live in, each with the line from the listing that proves who can apply. Free, no account.
 
 ## Internship and early career job sites
 
