@@ -62,6 +62,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remote job sites](#Remote-Job-Sites)
 - [Internship and early career job sites](#internship-and-early-career-job-sites)
 - [Freelance job sites](#Freelance-Job-Sites)
+- [AI leadership job sites](#ai-leadership-job-sites)
 - [Python job sites](#python-specific-job-sites)
 - [HTML and CSS job sites](#Html-and-Css-Job-Sites)
 - [JavaScript job sites](#javascript-job-sites)
@@ -147,6 +148,10 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Guru](https://guru.com)
 - [Freelancermap](https://freelancermap.com)
 - [chainjobs](https://chainjobs.app/) - Free Web3 and freelance job board with 0% platform commission
+
+## AI leadership job sites
+
+- [caio.pro](https://caio.pro/) - AI leadership roles, including Chief AI Officer and Head of AI. Free to browse; featured placements are paid.
 
 ## Python-specific job sites
 
