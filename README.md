@@ -131,6 +131,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Get HN Jobs](https://gethnjobs.com/remote-hacker-news-jobs) - Remote jobs from the monthly Hacker News "Who is hiring?" threads, with stack, role and location filters. Free, no account needed to search.
 - [Aworkado](https://aworkado.co) - Remote-only jobs aggregated daily from company ATS boards (Greenhouse, Lever, Ashby). Free, no account.
 - [Remotejobify](https://remotejobify.app) - Remote tech jobs read daily from companies' own job boards, sorted by the country you live in, each with the line from the listing that proves who can apply. Free, no account.
+- [FreshRemoteRoles](https://freshremoteroles.com) - Fully remote tech and digital jobs straight from companies' own career pages, updated daily. No hybrid or onsite roles, and a separate page for jobs open worldwide. Free, no account.
 
 ## Internship and early career job sites
 
