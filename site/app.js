@@ -12,6 +12,15 @@
   }
   let active = location.hash.slice(1) || 'all';
   if (active !== 'all' && !data.sections.some((s) => s.id === active)) active = 'all';
+  q.value = new URLSearchParams(location.search).get('q') || '';
+
+  function syncUrl(term, hash) {
+    const url = new URL(location.href);
+    if (term) url.searchParams.set('q', term);
+    else url.searchParams.delete('q');
+    if (hash !== undefined) url.hash = hash;
+    history.replaceState(null, '', url.pathname + url.search + url.hash);
+  }
 
   const host = (u) => new URL(u).hostname.replace(/^www\./, '');
 
@@ -27,7 +36,11 @@
     [{ id: 'all', title: 'All' }, ...data.sections].forEach((s) => {
       const b = el('button', { type: 'button', textContent: s.title.replace(/ job sites$/i, '').replace(/-specific/i, '') });
       b.setAttribute('aria-pressed', String(s.id === active));
-      b.onclick = () => { active = s.id; history.replaceState(null, '', '#' + s.id); render(); };
+      b.onclick = () => {
+        active = s.id;
+        syncUrl(q.value.trim(), '#' + s.id);
+        render();
+      };
       chips.append(b);
     });
   }
@@ -54,6 +67,9 @@
     if (!n) list.append(el('p', { className: 'empty', textContent: 'Nothing matches that search.' }));
     count.textContent = n + (n === 1 ? ' site' : ' sites');
   }
-  q.addEventListener('input', render);
+  q.addEventListener('input', () => {
+    syncUrl(q.value.trim());
+    render();
+  });
   render();
 })();
