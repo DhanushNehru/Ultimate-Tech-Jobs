@@ -54,6 +54,31 @@
     if (!n) list.append(el('p', { className: 'empty', textContent: 'Nothing matches that search.' }));
     count.textContent = n + (n === 1 ? ' site' : ' sites');
   }
+  function isEditable(target) {
+    const node = target && target.nodeType === 3 ? target.parentElement : target;
+    if (!node || node.nodeType !== 1) return false;
+    if (node.isContentEditable) return true;
+    return node.tagName === 'INPUT' || node.tagName === 'TEXTAREA' || node.tagName === 'SELECT';
+  }
+
+  q.placeholder = 'Search sites (press /)';
+  q.setAttribute('aria-keyshortcuts', '/');
   q.addEventListener('input', render);
+  q.addEventListener('keydown', (e) => {
+    if (e.key !== 'Escape' || e.ctrlKey || e.metaKey || e.altKey || e.isComposing) return;
+    e.preventDefault();
+    if (q.value) {
+      q.value = '';
+      render();
+    }
+    q.blur();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== '/' || e.ctrlKey || e.metaKey || e.altKey || e.isComposing || e.defaultPrevented) return;
+    if (isEditable(e.target) || isEditable(document.activeElement)) return;
+    e.preventDefault();
+    q.focus();
+    q.select();
+  });
   render();
 })();
