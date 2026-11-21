@@ -132,6 +132,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Aworkado](https://aworkado.co) - Remote-only jobs aggregated daily from company ATS boards (Greenhouse, Lever, Ashby). Free, no account.
 - [Remotejobify](https://remotejobify.app) - Remote tech jobs read daily from companies' own job boards, sorted by the country you live in, each with the line from the listing that proves who can apply. Free, no account.
 - [FreshRemoteRoles](https://freshremoteroles.com) - Fully remote tech and digital jobs from employer and staffing-company career pages, updated daily. No hybrid or onsite roles, and a separate page for jobs open worldwide. Free, no account.
+- [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday and others), with closed jobs removed. Free, no account.
 
 ## Internship and early career job sites
 
