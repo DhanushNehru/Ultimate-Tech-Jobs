@@ -103,6 +103,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Upwork](https://upwork.com)
 - [X Team](https://x-team.com)
 - [Foundit](https://www.foundit.in/)
+- [RoleWeek](https://roleweek.com/) - Developer and tech jobs in the US and Canada posted in the last 7 days, read from employers' own careers pages. Free, no account.
 
 ## Remote job sites
 
