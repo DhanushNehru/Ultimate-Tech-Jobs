@@ -134,6 +134,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remotejobify](https://remotejobify.app) - Remote tech jobs read daily from companies' own job boards, sorted by the country you live in, each with the line from the listing that proves who can apply. Free, no account.
 - [FreshRemoteRoles](https://freshremoteroles.com) - Fully remote tech and digital jobs from employer and staffing-company career pages, updated daily. No hybrid or onsite roles, and a separate page for jobs open worldwide. Free, no account.
 - [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday and others), with closed jobs removed. Free, no account.
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams. Free, no account.
 
 ## Internship and early career job sites
 
