@@ -135,6 +135,7 @@ Contributors: Thanks to everyone who has added resources and improved this list.
 - [Remotejobify](https://remotejobify.app) - Remote tech jobs read daily from companies' own job boards, sorted by the country you live in, each with the line from the listing that proves who can apply. Free, no account.
 - [FreshRemoteRoles](https://freshremoteroles.com) - Fully remote tech and digital jobs from employer and staffing-company career pages, updated daily. No hybrid or onsite roles, and a separate page for jobs open worldwide. Free, no account.
 - [Jobs Every Hour](https://jobseveryhour.com/remote/) - Remote jobs read every hour from employers' own career pages (Greenhouse, Lever, Workday and others), with closed jobs removed. Free, no account.
+- [Remote Roles](https://remoteroles.so) - Remote-only jobs in every field, including software, data, AI, product and security, with pay shown up front. Free, no account.
 - [JobsInCrypto](https://jobsincrypto.net) - 1,000+ manually checked crypto and web3 jobs, plus a talent pool: create an anonymous profile and companies message you first. Free.
 
 ## Internship and early career job sites
